@@ -1,0 +1,5 @@
+<thlogic xmlns:th="http://www.thymeleaf.org" >
+    <attr sel="#nav" th:replace="~{fragments/head :: headFragment}"/>
+    <attr sel="#head" th:replace="~{fragments/head :: head}"/>
+
+</thlogic>
