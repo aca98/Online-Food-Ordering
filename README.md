@@ -2,7 +2,7 @@
 Univerisity Project
 
 Note: The reason why customers can see the same thing as the employees, is because the application was built to quickly show the work with the database, for this project the application part wasn't important, 
-since the project main focus is on the database and the application part was optional. But i decided to do the application part anyway, in order to test my skills with Spring Boot and Spring MVC.
+since the project main focus is on the database and the application part was optional. But i decided to do the application part anyway, in order to test my skills with Spring Boot.
 
 Application for managing an online food ordering business. Customers can order products, while employees can add, remove and update the products.
 Employees can add new employees and remove existing ones.
